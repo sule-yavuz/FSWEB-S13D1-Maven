@@ -40,7 +40,6 @@ public class Main {
     }
 
 
-
     public static boolean isCatPlaying(boolean isSummer, int temp) {
 
         if(isSummer==true && (temp<=45 && temp>25))
