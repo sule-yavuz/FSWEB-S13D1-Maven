@@ -60,7 +60,6 @@ public class Main {
         return width*height;
 
     }
-
     public static double area(double radius) {
         if(radius<0)
         {
